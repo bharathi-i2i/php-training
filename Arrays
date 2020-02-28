@@ -1,0 +1,12 @@
+An array stores multiple values in one single variable:
+
+
+<?php
+$cars = array("Volvo", "BMW", "Toyota");
+echo "I like " . $cars[0] . ", " . $cars[1] . " and " . $cars[2] . ".";
+?>
+
+Array types:
+	1. Indexed arrays
+	2. Associative arrays
+	3. Multi-dimensional arrays
