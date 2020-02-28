@@ -1,0 +1,21 @@
+PHP Operators
+	Operators are used to perform operations on variables and values.
+
+	PHP divides the operators in the following groups:
+
+		1. Arithmetic operators  -  +,-,*,/,%,**
+
+		2. Assignment operators  -  =,+=,-=,*=,/=,%=
+
+		3. Comparison operators  -  ==,===,!=(or)<>,!==,<,>,<=,>=,<=>
+
+		4. Increment/Decrement operators  -  x++,++x,x--,--X
+
+		5. Logical operators   -  and(returns boolean),or(returns boolean),xor(true either x or y is true, but not both),&&,||,!
+               
+		6. String operators    -   .(concatenation)  .=(appends)
+
+		7. Array operators     -  +,==,===,!=,<>,!==
+
+		8. Conditional assignment operators   -   ?:,??
+
