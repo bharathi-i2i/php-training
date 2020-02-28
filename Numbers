@@ -1,0 +1,16 @@
+PHP Numbers
+
+ - One thing to notice about PHP is that it provides automatic data type conversion.
+
+ - So, if you assign an integer value to a variable, the type of that variable will automatically be an integer. Then, if you assign a string to the same variable, the type will change to a string.
+
+ - This automatic conversion can sometimes break your code.
+
+ - Another important thing to know is that even if 4 * 2.5 is 10, the result is stored as float, because one of the operands is a float (2.5).
+
+
+PHP Casting Strings and Floats to Integers
+Sometimes you need to cast a numerical value into another data type.
+
+The (int), (integer), or intval() function are often used to convert a value to an integer.
+
